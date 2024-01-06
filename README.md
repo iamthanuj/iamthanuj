@@ -1,4 +1,7 @@
-# 💫 About Me:
+
+![Github](https://github.com/iamthanuj/iamthanuj/assets/98619183/c0ec0904-a8db-487c-9ab5-3c1c66a84227)
+# [![](https://visitcount.itsvg.in/api?id=iamthanuj&icon=5&color=1)](https://visitcount.itsvg.in)
+
 🔭 I’m currently working on MERN Stack Project<br>🌱 I’m currently learning Backend Technologies<br>
 
 
@@ -12,9 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamthanuj&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamthanuj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iamthanuj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
@@ -22,6 +22,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamthanuj&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
