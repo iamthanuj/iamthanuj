@@ -4,7 +4,7 @@
 
 
 # [![](https://visitcount.itsvg.in/api?id=iamthanuj&icon=5&color=1)](https://visitcount.itsvg.in) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hanujadfernando) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ferd.thanuj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanuja-fernando-325113211) <h1 align="center">Welcome! 👋</h1>
-<p align="center">🔭 I’m currently working on MERN Stack  Project</p>
+
 
 
 
