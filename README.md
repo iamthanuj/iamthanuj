@@ -7,11 +7,6 @@
 
 
 
-
-
-<p align="center">
-    <img width="" src="https://github.com/iamthanuj/iamthanuj/assets/98619183/b16a455c-670f-4e7d-9272-185458aff2b0">
-</p>
  
 
 
