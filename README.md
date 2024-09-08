@@ -1,4 +1,4 @@
-<p align="center">
+<p  align="center">
     <img width="" src="https://github.com/iamthanuj/iamthanuj/assets/98619183/9e48f992-f906-4da8-849a-4f6cbdedeb5e">
 </p>
 
